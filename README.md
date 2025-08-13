@@ -34,7 +34,7 @@ To run this project on your local machine, follow these steps:
 
 #### **Prerequisites:**
 * Python 3.x
-* MongoDB installed and running locally on `localhost:27017`
+* MongoDB installed and running locally.
 
 #### **1. Clone the Repository:**
 

@@ -33,15 +33,9 @@ Python 3.x
 MongoDB installed and running locally on localhost:27017
 
 1. Clone the Repository:
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
 
-3. Install Dependencies:
+2. Install Dependencies:
 pip install pymongo faker jupyter
 
 3. Run the Jupyter Notebook:
 Open the notebook file and run all cells in sequence. This will first generate the data and then execute all the queries.
-
-jupyter notebook your-notebook-name.ipynb
-Deliverables
-This repository contains the required deliverables for the assignment, including the complete Jupyter Notebook file.
